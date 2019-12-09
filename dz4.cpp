@@ -12,7 +12,6 @@ priority_queue<pair<int,int> > all;
 
 int main()
 {
-    ios_base::sync_with_stdio(0); cin.tie(0);
     cout<<"Enter the number of vertices:"<<endl;
     cin>>n;
     cout<<"Enter the number of edges:"<<endl;
